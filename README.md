@@ -10,3 +10,8 @@ https://github.com/SullyChen/Autopilot-TensorFlow
 https://github.com/rwightman/udacity-driving-reader
 
 https://github.com/udacity/self-driving-car/tree/master/datasets
+
+
+https://arxiv.org/pdf/1604.07316.pdf
+
+

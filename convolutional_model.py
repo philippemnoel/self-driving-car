@@ -18,7 +18,7 @@ def conv2d(x, W, stride):
 
 # vars
 x = tf.placeholder(tf.float32, shape=[None, 66, 200, 3])
-y = tf.placeholder(tf.float32, shape=[None, 1])
+y_ = tf.placeholder(tf.float32, shape=[None, 1])
 
 # convolutional neural network model
 ################################################################################

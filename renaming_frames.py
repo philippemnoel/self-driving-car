@@ -15,4 +15,4 @@ def renaming(directory):
 		fc += 1
 
 # function call
-renaming(os.path.abspath('/Users/noep/Desktop/Autopilot-TensorFlow-master/Ch2_001.tar/center/'))
+renaming(os.path.abspath('/Users/noep/Desktop/self-driving-car/Ch2_001.tar/center/'))
